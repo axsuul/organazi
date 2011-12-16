@@ -1,0 +1,3 @@
+Properly tags electronic dance music albums and releases from various sources (discogs, beatport, etc). Also properly organizes radio shows (Trance Around the World, A State of Trance, Jaytech Music Podcast, and more) and splits them into tracks with CUE sheets from http://cuenation.com. If you have foobar2000 installed, it will also load them into a playlist automagically. Uses wxPython for the UX.
+
+I haven't really had the time to document this project, but if there's interest out there, I will put more time into this. But for now, it works good.
